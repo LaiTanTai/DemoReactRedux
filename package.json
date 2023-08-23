@@ -1,11 +1,11 @@
 {
   "name": "demo_redux",
   "version": "0.1.0",
-  "engines": {
-    "npm":"6.14.9",
-    "node":"14.15.2"
-  },
-  "homepage": "http://localhost:8080/DemoReact",
+  // "engines": {
+  //   "npm":"6.14.9",
+  //   "node":"14.15.2"
+  // },
+  // "homepage": "http://localhost:8080/DemoReact",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",

@@ -1,3 +1,9 @@
+// "engines": {
+  //   "npm":"6.14.9",
+  //   "node":"14.15.2"
+  // },
+  // "homepage": "http://localhost:8080/DemoReact",
+
 import { useContext } from 'react';
 import { connect } from 'react-redux'
 function Counter({count,increase,decrease}) {
